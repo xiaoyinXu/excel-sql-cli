@@ -1,0 +1,7 @@
+student_id:int,subject:string,score:int
+1,Math,99
+1,Biology,98
+1,Computer Science,95
+2,Math,100
+2,Biology,100
+2,Computer Science,90
